@@ -1,0 +1,1 @@
+# seasonality-heatmap-alerts-mt4
